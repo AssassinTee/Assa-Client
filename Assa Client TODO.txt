@@ -1,0 +1,27 @@
+TODO list:
++ must be
+- not needed
+* maybe
+
+TODO:
+*Key konfig Quitting forgot what this was about
+
++finish Recent
++ingame clock, Analog?
+*Blood on the walls
+*FNG Counter
++finish clanpage (complete)
+
+DONE:
++Autoreconnect
++Colored gametypes
++Colored Playernumbers,etc.
++Nameplate Shows Score
++Colored nameplates
++blood
++added Recent Page
++New Download (Chunkloading)
++Only do gametiles
++T-Changer
++finish dynbind
+
